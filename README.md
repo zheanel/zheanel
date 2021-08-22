@@ -8,7 +8,7 @@
 
 • 🤝 Always helping friends and people
 
-You can reach me here:
+📩 You can reach me here:
 
 • Discord: SkoopeYT#7708
 
