@@ -6,7 +6,7 @@
 
 ‣ 📚 I'm currently studying FPGM Microsistemas y Redes
 
-‣ 🤝 Always helping friends and people
+‣ 🤝 Always wanting to help
 
 📩 You can reach me here:
 
