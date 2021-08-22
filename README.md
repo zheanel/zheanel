@@ -1,6 +1,6 @@
 👋 Hi! My name is Abel
 
-‣ 🔧 I'm currently working at @CoralMCNET
+‣ 🔧 I'm currently working at @CoralMCNET | @Nasgar Network | SnowCraft Games
 
 ‣ 🖥 Owner of SkoopeSYS | https://sys.afortea.eu
 
