@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **linux**
 
-- 📫 How to reach me **skoopeyt@gmail.com**
+- 📫 How to reach me **SkoopeYT#7708** **skoopeyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
