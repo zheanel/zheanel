@@ -1,22 +1,3 @@
-👋 Hi! My name is Abel
-
-‣ 🔧 I'm currently working at @CoralMCNET | @Nasgar Network | SnowCraft Games
-
-‣ 🖥 Owner of SkoopeSYS | https://sys.afortea.eu
-
-‣ 📚 I'm currently studying FPGM Microsistemas y Redes
-
-‣ 🤝 Always wanting to help
-
-📩 You can reach me here:
-
-‣ Discord: SkoopeYT#7708
-
-‣ Twitter: https://twitter.com/skoopeyt
-
-‣ Email: skoopeyt@gmail.com
-
-
 <h1 align="center">Hi 👋, I'm Abel</h1>
 <h3 align="center">A server lover from Spain</h3>
 
@@ -26,7 +7,7 @@
 
 - 🌱 I’m currently learning **FPGM Microsistemas y Redes**
 
-- 👯 Owner of [SkoopeSYS](https://sys.afortea.eu)
+- 🖥 Owner of [SkoopeSYS](https://sys.afortea.eu)
 
 - 💬 Ask me about **linux**
 
