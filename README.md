@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoopeyt" alt="skoopeyt" /></a> </p>
 
-- 🔭 I’m currently working on **@CoralMCNET | @Nasgar Network | SnowCraft Games**
+- 🔭 I’m currently working on **@Nasgar Network | SnowCraft Games**
 
-- 🌱 I’m currently learning **FPGM Microsistemas y Redes**
+- 🌱 I’m currently studying **IT**
 
 - 🖥 Owner of [SkoopeSYS](https://sys.afortea.eu)
 
