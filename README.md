@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abel</h1>
-<h3 align="center">A server lover from Spain</h3>
+<!--<h3 align="center">An IT Student</h3>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoopeyt" alt="skoopeyt" /></a> </p>
 
-- 🔭 I’m currently working on **@Nasgar Network | SnowCraft Games**
+- 🔭 I’m currently working on **IntraIT Solutions & CubicServers Hosting**
 
 - 🌱 I’m currently studying **IT**
 
