@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abel</h1>
 <!--<h3 align="center">An IT Student</h3>-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skoopeyt" alt="skoopeyt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zheanel" alt="zheanel" /></a> </p>
 
 - 🔭 I’m currently working on **IntraIT Solutions & CubicServers Hosting**
 
 - 🌱 I’m currently studying **IT**
 
-- 🖥 Owner of [SkoopeSYS](https://sys.afortea.eu)
+- 📫 How to reach me **skoopeyt**
 
-- 💬 Ask me about **linux**
-
-- 📫 How to reach me **SkoopeYT#7708** **skoopeyt@gmail.com**
+- I play VRChat, feel free to add me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
