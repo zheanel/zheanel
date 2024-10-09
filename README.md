@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **skoopeyt**
 
-- I play VRChat, feel free to add me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
