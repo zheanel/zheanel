@@ -3,7 +3,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zheanel&show_icons=true&theme=dark" alt="zheanel" /> </p>
 
-🚀 Passionate IT student working on IntraIT Solutions & CubicServers Hosting<br><br>
+    🚀 Passionate IT student working on IntraIT Solutions & CubicServers Hosting
+    ⚙️ Working as an IT freelancer during my free time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
